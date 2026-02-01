@@ -45,7 +45,7 @@
     "bindings": [
       {
         "class_name": "Sandbox",
-        "name": "MOLT_STORAGE",
+        "name": "Sandbox",
       },
     ],
   },
